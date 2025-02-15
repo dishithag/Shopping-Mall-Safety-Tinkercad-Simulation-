@@ -101,9 +101,3 @@ Below is the **Tinkercad circuit setup** for this project:
 
 ![Circuit Diagram](Circuit_Diagram.png)  
 
----
-
-### 🔗 **Project Developed for Smart Mall Safety Using IoT**  
-This project helps **enhance security, automate processes, and ensure a safer shopping experience**.  
-
-🚀 *Feel free to contribute and improve this project!*  
