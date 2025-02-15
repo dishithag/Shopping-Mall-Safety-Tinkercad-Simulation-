@@ -47,7 +47,7 @@ to automate safety checks at the **mall entrance, lift, emergency situations, an
 ### 2️⃣ **Gas Sensor**
 - 📍 **Placement**: Inside the **mall premises**.
 - 📊 **Function**: Detects **gas leaks or smoke**.
-- 🔔 **Action**: If harmful gases are detected, a **buzzer alarm** goes off.
+- 🔔 **Action**: If harmful gases are detected, a **buzzer alarm** goes on.
 
 ### 3️⃣ **Photoresistor (LDR)**
 - 📍 **Placement**: **Outside the mall**.
