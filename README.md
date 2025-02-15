@@ -90,7 +90,7 @@ to automate safety checks at the **mall entrance, lift, emergency situations, an
 ---
 
 ## 📜 Code  
-The full Arduino simulation code for this project is available in the **`code.txt`** file.  
+The full Arduino simulation code for this project is available in the **`code.ino`** file.  
 You can copy it and run it directly in **Tinkercad's code editor**.  
 
 
