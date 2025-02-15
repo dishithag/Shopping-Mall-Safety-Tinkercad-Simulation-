@@ -11,7 +11,7 @@ to automate safety checks at the **mall entrance, lift, emergency situations, an
 ---
 
 ## 🎥 Tinkercad Simulation  
-🔗 [View the Tinkercad Simulation](YOUR_TINKERCAD_LINK_HERE)  
+🔗 [View the Tinkercad Simulation](https://www.tinkercad.com/things/jNPbw7suQcu-copy-of-projecttry?sharecode=obAQlgM1U2_WzgWH2C1CFTvNPpB1penJstEtgUPz7-I)  
 
 ---
 
@@ -68,35 +68,38 @@ to automate safety checks at the **mall entrance, lift, emergency situations, an
 
 ---
 
-## 🚀 How to Run This Project  
+## 🚀 How to Run This Project on Tinkercad  
 
-1. **Open the Tinkercad simulation**:  
+1. **Open the Tinkercad Simulation**  
    - Click on the **Tinkercad link** provided above.  
    - Sign in to **copy** and edit the project.  
 
-2. **Upload the Code to Arduino**:  
-   - Use the file **`shopping_mall_safety.ino`** (available in this repository).  
-   - Upload it to an **Arduino Uno** board using the **Arduino IDE**.  
+2. **Access the Code**  
+   - Open the **"Code"** section in Tinkercad.  
+   - Copy the code from the **`code.txt`** file (available in this repository).  
+   - Paste it into the **Tinkercad text-based code editor**.
 
-3. **Connect the Components**:  
-   - Follow the circuit diagram in **Tinkercad** to set up **sensors, LEDs, and the buzzer**.  
+3. **Start the Simulation**  
+   - Click the **"Start Simulation"** button in Tinkercad.  
+   - The circuit will run, and the sensors will respond based on the logic in the code.  
 
-4. **Test the System**:  
-   - Adjust sensor inputs in Tinkercad or in a real setup.  
-   - Observe **LEDs, buzzer, and automatic door functionality**.  
+4. **Test the System**  
+   - Simulate different conditions in Tinkercad by adjusting sensor values.  
+   - Observe how the **LEDs, buzzer, and automatic door** respond.  
 
 ---
 
 ## 📜 Code  
-The full Arduino code for this project is available in the **`shopping_mall_safety.ino`** file.  
-You can copy it and run it in **Tinkercad** or **Arduino IDE**.
+The full Arduino simulation code for this project is available in the **`code.txt`** file.  
+You can copy it and run it directly in **Tinkercad's code editor**.  
+
 
 ---
 
 ## 📸 Circuit Diagram  
 Below is the **Tinkercad circuit setup** for this project:  
 
-![Circuit Diagram](circuit_diagram.png)  
+![Circuit Diagram](Circuit_Diagram.png)  
 
 ---
 
